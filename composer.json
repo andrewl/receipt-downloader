@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ddeboer/imap": "^0.5.2",
+        "monolog/monolog": "^1.23"
+    }
+}
